@@ -1,0 +1,43 @@
+[
+  {
+    "accountNumber": "1224",
+    "dateOfOpening": "2020-10-23 15:37:23",
+    "interestRate": 5.0,
+    "balance": 10.00,
+    "accountType": "deposit",
+    "historyOfTransactions": {
+      "deposits": [
+        {
+          "amount": 100.00,
+          "dateOfTransaction": "2020-10-23 15:37:24"
+        }
+      ],
+      "withdraws": [
+        {
+          "amount": 50.00,
+          "dateOfTransaction": "2020-10-23 15:37:24"
+        },
+        {
+          "amount": 40.00,
+          "dateOfTransaction": "2020-10-23 15:37:24"
+        }
+      ]
+    }
+  },
+  {
+    "accountNumber": "1225",
+    "dateOfOpening": "2020-10-23 15:37:24",
+    "interestRate": 5.0,
+    "balance": 40.00,
+    "accountType": "current",
+    "historyOfTransactions": {
+      "deposits": [
+        {
+          "amount": 40.00,
+          "dateOfTransaction": "2020-10-23 15:37:24"
+        }
+      ],
+      "withdraws": []
+    }
+  }
+]
